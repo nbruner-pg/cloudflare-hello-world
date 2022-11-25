@@ -1,0 +1,8 @@
+name = "polished-unit-b8aa"
+main = "src/index.ts"
+compatibility_date = "2022-11-04"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
